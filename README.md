@@ -6,7 +6,7 @@ My current focus is on helping maintain [Vite](https://github.com/vitejs/vite), 
 
 Apart from coding, I'm interested in helping Open Source communities grow into healthy spaces for collaboration. You'll see me around in [Vite Land](https://chat.vitejs.dev/) helping others and fostering connections between the devs that are propelling the ecosystem forward, making plugins, integrations, and frameworks.
 
-Check out [Vitest](https://vitest.dev/), where I'm collaborating with [Anthony Fu](https://twitter.com/antfu7) and a newly formed community to build a blazing fast unit-test framework powered by Vite. It is currently available for sponsors only.
+Check out [Vitest](https://vitest.dev/), where I'm collaborating with [Anthony Fu](https://twitter.com/antfu7) and a newly formed community to build a blazing fast unit-test framework powered by Vite. Follow our progress in Twitter [@vitest_dev](https://twitter.com/vitest_dev) and help us build it in GitHub [vitest-dev/vitest](https://github.com/vitest-dev/vitest).
 
 Thanks a lot to the people and companies that are helping to [make my open source work sustainable](https://www.patreon.com/patak)!
 
