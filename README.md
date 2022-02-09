@@ -10,6 +10,6 @@ Check out [Vitest](https://vitest.dev/), where I'm collaborating with [Anthony F
 
 Thanks a lot to the people and companies that are helping to [make my open source work sustainable](https://www.patreon.com/patak)!
 
-[![](https://patak.dev/images/sponsors/sponsors.svg)](https://patak.dev)
+[![](https://patak.dev/sponsors.svg)](https://patak.dev)
 
 Connect with me on [Twitter @patak_dev](https://twitter.com/patak_dev) or in [Discord @patak](https://chat.vitejs.dev/).
