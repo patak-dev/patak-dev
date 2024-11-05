@@ -12,4 +12,4 @@ Special Shoutout to [StackBlitz](https://blog.stackblitz.com/posts/stackblitz-we
 
 [![](https://patak.dev/sponsors.svg)](https://patak.dev)
 
-Connect with me on [Twitter @patak_dev](https://twitter.com/patak_dev) or in [Discord @patak](https://chat.vitejs.dev/).
+Connect with me on [Bluesky @patak.dev](https://bsky.app/profile/patak.dev)
