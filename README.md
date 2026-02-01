@@ -1,15 +1,11 @@
 ### Hi there 👋
 
-My name is [Matias Capeletto](https://patak.dev/). I'm a [Vite](https://github.com/vitejs/vite) core team member, a [Vitest](https://vitest.dev/) core team member, and a [Vue](https://v3.vuejs.org/) team member, and I collaborate in Vue ecosystem projects like [VueUse](https://github.com/vueuse/vueuse) (see [three part series about ignorableWatch and useRefHistory](https://patak.dev/vue/ignorable-watch.html)), [Vitepress](https://github.com/vuejs/vitepress) and others.
+Hey! My name is [Matias Capeletto](https://patak.dev/). I'm an indepenent Open Source developer. Your support means a lot to me, and allows me to focus on helping the ecosystem wherever I see a good opportunity. Thank you!
 
-My current focus is on [Vite](https://github.com/vitejs/vite) maintenance, as its ecosystem and community are exploding. You'll [see me](https://github.com/patak-js) in Vite's PRs working with other collaborators to help them land their fixes and improvements, working out issues, and building up with other maintainers the Vite team. I'm also maintaining [Vite Rollup Plugins](https://vite-rollup-plugins.patak.dev/), a compatibility list for Rollup plugins.
+If you work for a company, and have doubts about what it means to sponsor me taking one of the top tiers, please reach out and let's talk on [bluesky @patak.dev](https://bsky.app/profile/patak.dev) or [discord](https://chat.npmx.dev). Support from companies is fundamental for independent Open Source developers, and ensure I'll will be able to continue working on npmx and other projects long-term.
 
-Apart from coding, I'm interested in helping Open Source communities grow into healthy spaces for collaboration. You'll see me around in [Vite Land](https://chat.vitejs.dev/) helping others and fostering connections between the devs that are propelling the ecosystem forward, making plugins, integrations, and frameworks.
+I'm one of the Project Stewards of [npmx](https://npmx.dev), together with [Daniel Roe](https://roe.dev). We're building a modern browser for the npm registry with an ever growing community of kind souls. We've made a lot of progress in a very short amount of time, and we have big plans for the project. Apart from helping define the long-term vision and direction of the project, I'm focused on fostering the healthy grow of our community and on outreach efforts. I'm working to encourage others to participate, helping them get started, and making sure our team has all the resources they need to have a great open source experience while building npmx.
 
-Thanks a lot to the people and companies that are helping to [make my open source work sustainable](https://www.patreon.com/patak)!
+I'm also part of the [e18e](https://e18e.dev) community. I helped [James](https://bsky.app/profile/43081j.com), and other incredible open source giants, build a healthy community from where to improve the performance of the whole JavaScript ecosystem. The Ecosystem Performance (e18e) efforts play now a fundamental role on npmx, helping us guide users to avoid choose modern libraries where there are better alternatives. You'll see me around trying to help improve the bridges that we've built between npmx and e18e.
 
-Special Shoutout to [StackBlitz](https://blog.stackblitz.com/posts/stackblitz-welcomes-patak/), for hiring me to work full-time on Vite 💚
-
-[![](https://patak.dev/sponsors.svg)](https://patak.dev)
-
-Connect with me on [Bluesky @patak.dev](https://bsky.app/profile/patak.dev)
+You may also know me from other projects in the ecosystem. I'm was the first to join the [Vite](https://vite.dev) team, together with Anthony Fu. We also started together [Vitest](https://vitest.dev). You can see the story of our adventures during the first five years of the Vite Ecosystem in the [Vite Documentary](https://www.youtube.com/watch?v=bmWQqAKLgT4). We also built [Elk](https://elk.zone), a Mastodon client together with Daniel, Anthony, Kevin, and other awesome folks.
